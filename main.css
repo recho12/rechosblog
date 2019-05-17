@@ -17,9 +17,21 @@
  }
  h1 {
     color:#ff6347;
-    font-size: 56px;
+    font-size: 54px;
  }
  
+ .Outcome1 {
+   color:hsl(277, 69%, 54%);
+   font-size: 54px
+ }
+.reference {
+   font-size: 22px;
+}
+.layout {
+   font-size: 22px;
+   text-align: left;
+}
+
 
 h2{
    color:rgb(8, 11, 12);
